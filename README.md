@@ -6,7 +6,7 @@ A vibe-coded sonic secret transmission app. Send encrypted messages via ultrason
 
 - **CRT terminal aesthetic** with scanlines and phosphor green text
 - **Ultrasonic encoding** — messages travel as sound (18-22kHz)
-- **Ephemeral** — no server存储, no trace left behind
+- **Ephemeral** — no server, no trace left behind
 - **Party trick energy** — pass secrets like it's 1999
 
 ## How It Works
